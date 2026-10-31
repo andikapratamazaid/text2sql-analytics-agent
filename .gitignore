@@ -1,0 +1,8 @@
+.env
+data/*.db
+data/olist/
+outputs/charts/*.png
+logs/*.jsonl
+__pycache__/
+*.pyc
+.DS_Store
